@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+<h1>Pujitha Desiraju</h1>
+</head>
+<style>
+body{
+    text-align: center;
+    color: teal;
+    font-family: Times;
+    background: url("http://wallpoper.com/images/00/40/12/69/circuits_00401269.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ }
+ p{
+     font-size: 20px;
+ }
+ input{
+     border:0;
+     padding: 4px;
+     
+ }
+ input[type="submit"] {
+  background: teal;
+  color: black;
+}
+</style>
+<body>
+<p>Hey there! My name is Pujitha Desiraju and I am currently a sophomore in Computer Engineering at Purdue University. Greatly interested in learning. </p>
+
+<B>Contact me at pdesiraj@purdue.edu</B>
+<Br>
+<input type= "email" placeholder="Enter your email id">
+<input type= "submit">
+</body>
